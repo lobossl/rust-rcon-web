@@ -1,0 +1,39 @@
+body
+{
+	font-size:16px;
+	fony-family:monospace;
+	margin:0 auto;
+	padding:0;
+	background-color:#222;
+	text-align:center;
+	color:#ffffff;
+}
+#main
+{
+	display:flex;
+	flex-direction:column;
+}
+#main > div
+{
+	border:none;
+	padding:15px;
+	margin:15px;
+	outline:none;
+}
+#console
+{
+	overflow:auto;
+	height:50vh;
+	color:rgb(3, 160, 98);
+	background-color:#000000;
+	text-align:left;
+}
+#input
+{
+	outline:none;
+	border:none;
+	padding:15px;
+	margin:15px;
+        color:rgb(3, 160, 98);
+        background-color:#000000;
+}
