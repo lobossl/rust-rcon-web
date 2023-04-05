@@ -1,7 +1,7 @@
 # rust-rcon-web
 # simple rcon web client for RUST GAME
 
-(Make sure your RUST SERVER has (rcon.web 1) settings
+Make sure your RUST SERVER has rcon.web 1 settings
 
 1) Put files in your computer or web server
 2) configure <test.js> and edit (password,ip,port)
