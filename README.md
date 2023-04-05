@@ -1,4 +1,11 @@
 # rust-rcon-web
-simple rcon web client for RUST GAME
+# simple rcon web client for RUST GAME
 
-Put files in your computer, edit test.js and change password,ip,port and you are ready to go!
+1) Put files in your computer or web server
+2) configure <test.js> and edit (password,ip,port)..
+3) open browser (index.html)
+
+The End Enjoy!
+
+- 100% Free
+- 0 Bugs
